@@ -1,0 +1,78 @@
+<!doctype html>
+<html><head>
+<meta charset="UTF-8">
+	
+<title>Campaign participating store list</title>
+<style>
+	table{
+		font-family: 'Noto Sans KR', sans-serif;
+		border: 1px solid #444444;
+		border-collapse: collapse;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	th, td {
+	border: 1px solid #444444;
+	padding: 5px;
+	
+  }
+}
+
+@media (max-width: 1280px){
+}
+</style>
+</head>
+<body>
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">지역</th>
+<th title="Field #2">상점</th>
+<th title="Field #3">주소</th>
+</tr></thead>
+<tbody><tr>
+<td>성북</td>
+<td>국사랑</td>
+<td>서울시 성북구 월계로 32길 24 B202호</td>
+</tr>
+<tr>
+<td> </td>
+<td>엄마손 두부</td>
+<td>서울시 성북구 한천로73길 34</td>
+</tr>
+<tr>
+<td> </td>
+<td>쥬시&amp;커피(토스트)</td>
+<td>서울시 성북구 화랑로32길 54-5 1층</td>
+</tr>
+<tr>
+<td>영등포</td>
+<td>빛과 정물</td>
+<td>서울시 영등포구 당산로18길 5</td>
+</tr>
+<tr>
+<td> </td>
+<td>순수카츠</td>
+<td>서울시 영등포구 양산로23길 1-2</td>
+</tr>
+<tr>
+<td> </td>
+<td>스시우이</td>
+<td>서울시 영등포구 당산로24길 4</td>
+</tr>
+<tr>
+<td> </td>
+<td>스튜디오 짱용</td>
+<td>서울시 영등포구 영등포로27길 23-1</td>
+</tr>
+<tr>
+<td> </td>
+<td>카페 그린히어로</td>
+<td>서울시 영등포로27길 13, 1층</td>
+</tr>
+<tr>
+<td> </td>
+<td>헬로, 포멜로</td>
+<td>서울시 영등포구 당산로18길 5</td>
+</tr>
+</tbody></table>
+</body>
+</html>
